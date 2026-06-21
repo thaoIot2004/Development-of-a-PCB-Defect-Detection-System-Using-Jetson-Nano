@@ -87,10 +87,8 @@ Hệ thống gồm 3 khối chính:
 | Spur | 0.86 | 0.85 |
 | Spurious copper | 0.96 | 0.93 |
 
-
 <p align="center">
-  <img src="Result1.jpg" width="500",height="600"/>
-  <img src="result2.jpg" width="500",height="600"/>
+  <img src="results model.jpg" />
   <br/>
   <em>Kết quả hệ thống thực tế</em>
 </p>
@@ -129,7 +127,13 @@ Hoặc **double-click** vào file `YOLO.desktop` trên màn hình desktop.
 5. Click vào từng dòng trong bảng để **highlight** vị trí lỗi tương ứng
 6. Nhấn **"Camera"** để kiểm tra bo mạch tiếp theo
 
-> 📸 **[CHÈN HÌNH: Giao diện ứng dụng và kết quả thử nghiệm]**
+<p align="center">
+  <img src="Result1.jpg" width="500",height="600"/>
+  <img src="result2.jpg" width="500",height="600"/>
+  <br/>
+  <em>Kết quả hệ thống thực tế</em>
+</p>
+
 
 ---
 
