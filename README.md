@@ -9,8 +9,7 @@
 
 Hệ thống phát hiện khuyết điểm bảng mạch in PCB tự động sử dụng mô hình học sâu YOLOv10s triển khai trên máy tính nhúng NVIDIA Jetson Nano. Giải pháp hướng đến các doanh nghiệp vừa và nhỏ, thay thế phương pháp kiểm tra thủ công bằng mắt người với độ chính xác và tốc độ vượt trội.
 
-! [Hệ thống thực tế] (mohinh.jpg)
-
+![Mô hình thực tế](mohinh.jpg)
 ---
 
 ## 🎯 Tính năng
