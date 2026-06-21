@@ -9,11 +9,6 @@
 
 Hệ thống phát hiện khuyết điểm bảng mạch in PCB tự động sử dụng mô hình học sâu YOLOv10s triển khai trên máy tính nhúng NVIDIA Jetson Nano. Giải pháp hướng đến các doanh nghiệp vừa và nhỏ, thay thế phương pháp kiểm tra thủ công bằng mắt người với độ chính xác và tốc độ vượt trội.
 
-<p align="center">
-  <img src="mohinh.jpg" width="500",height="600"/>
-  <br/>
-  <em>Mô hình hệ thống thực tế</em>
-</p>
 ---
 
 ## 🎯 Tính năng
@@ -57,8 +52,12 @@ Hệ thống gồm 3 khối chính:
 | Lưu trữ | MicroSD ≥ 64GB |
 | Buồng kiểm tra | In 3D 3 tầng, kích thước tổng thể 130×160×260mm |
 
-> 📸 **[CHÈN HÌNH: Mô hình thực tế]**
 
+<p align="center">
+  <img src="mohinh.jpg" width="500",height="600"/>
+  <br/>
+  <em>Mô hình hệ thống thực tế</em>
+</p>
 ---
 
 ## 🤖 Mô hình AI
@@ -88,7 +87,12 @@ Hệ thống gồm 3 khối chính:
 | Spur | 0.86 | 0.85 |
 | Spurious copper | 0.96 | 0.93 |
 
-> 📸 **[CHÈN HÌNH: Confusion matrix normalized]**
+
+<p align="center">
+  <img src="results%20model.png" width="500",height="600"/>
+  <br/>
+  <em>Kết quả mô hình</em>
+</p>
 
 ---
 
