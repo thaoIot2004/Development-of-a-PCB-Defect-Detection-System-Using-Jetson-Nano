@@ -89,12 +89,13 @@ Hệ thống gồm 3 khối chính:
 
 
 <p align="center">
-  <img src="results model.png" />
+  <img src="Result1.jpg" width="500",height="600"/>
+  <img src="result2.jpg" width="500",height="600"/>
   <br/>
-  <em>Kết quả mô hình</em>
+  <em>Kết quả hệ thống thực tế</em>
 </p>
 
----
+
 
 ## ⚙️ Cài đặt và chạy
 
