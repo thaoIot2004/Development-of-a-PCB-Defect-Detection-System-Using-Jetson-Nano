@@ -178,10 +178,5 @@ Hoặc **double-click** vào file `YOLO.desktop` trên màn hình desktop.
 
 ---
 
-## 📄 License
-
-MIT License
-
----
 
 *Đồ án tốt nghiệp - Ngành Hệ thống nhúng và IoT - 06/2026*
