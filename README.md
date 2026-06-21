@@ -152,22 +152,6 @@ Hoặc **double-click** vào file `YOLO.desktop` trên màn hình desktop.
 
 ---
 
-## 📁 Cấu trúc thư mục
-
-```
-📦 pcb-defect-detection
-├── 📂 app/
-│   └── appv2.py              # Ứng dụng chính (Tkinter UI)
-├── 📂 models/
-│   └── yolov10s_pcb.pt       # Model đã huấn luyện
-├── 📂 data/                  # Dữ liệu huấn luyện / kiểm thử
-├── 📂 training/
-│   └── train.ipynb           # Notebook huấn luyện (Google Colab)
-├── Dockerfile
-├── launch_yolo.sh            # Script khởi động
-├── YOLO.desktop              # Shortcut desktop
-└── README.md
-```
 
 ---
 
