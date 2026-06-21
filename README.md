@@ -90,7 +90,7 @@ Hệ thống gồm 3 khối chính:
 <p align="center">
   <img src="results model.jpg" />
   <br/>
-  <em>Kết quả hệ thống thực tế</em>
+  <em>Kết quả mô hình Yolov10s</em>
 </p>
 
 
