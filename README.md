@@ -89,7 +89,7 @@ Hệ thống gồm 3 khối chính:
 
 
 <p align="center">
-  <img src="results model.png" width="500",height="600"/>
+  <img src="results model.png" />
   <br/>
   <em>Kết quả mô hình</em>
 </p>
