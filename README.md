@@ -88,7 +88,7 @@ Hệ thống gồm 3 khối chính:
 | Spurious copper | 0.96 | 0.93 |
 
 <p align="center">
-  <img src="results model.jpg" />
+  <img src="results model.png" />
   <br/>
   <em>Kết quả mô hình Yolov10s</em>
 </p>
@@ -128,8 +128,8 @@ Hoặc **double-click** vào file `YOLO.desktop` trên màn hình desktop.
 6. Nhấn **"Camera"** để kiểm tra bo mạch tiếp theo
 
 <p align="center">
-  <img src="Result1.jpg" width="500",height="600"/>
-  <img src="result2.jpg" width="500",height="600"/>
+  <img src="Result1.png" width="500",height="600"/>
+  <img src="result2.png" width="500",height="600"/>
   <br/>
   <em>Kết quả hệ thống thực tế</em>
 </p>
